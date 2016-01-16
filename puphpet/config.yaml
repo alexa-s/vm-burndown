@@ -308,7 +308,7 @@ mariadb:
     adminer: 0
     users:
         mariadbnu_evsmji24yo42:
-            name: dbuser
+            name: dbuser1
             password: '123'
     databases:
         mariadbnd_ycirqxv08sc6:
@@ -316,7 +316,7 @@ mariadb:
             sql: ''
     grants:
         mariadbng_hmkoxm83akz3:
-            user: dbuser
+            user: dbuser1
             table: '*.*'
             privileges:
                 - ALL
